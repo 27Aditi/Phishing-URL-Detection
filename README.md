@@ -1,6 +1,6 @@
 # PhishShield Pro: AI-Powered Phishing URL Detection System
 
-A state-of-the-art cybersecurity and machine learning application for real-time URL vulnerability scanning, phishing detection, and deep heuristic inspection. Built directly on the benchmark UCI Phishing Websites dataset (11,055 records) and inspired by the core research pipeline of [vaibhavbichave/Phishing-URL-Detection](https://github.com/vaibhavbichave/Phishing-URL-Detection).
+A state-of-the-art cybersecurity and machine learning application for real-time URL vulnerability scanning, phishing detection, and deep heuristic inspection. Built directly on the benchmark UCI Phishing Websites dataset (11,055 records).
 
 ---
 
